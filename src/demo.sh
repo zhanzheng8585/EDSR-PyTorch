@@ -53,4 +53,3 @@ python main.py --model EDSR --scale 2 --patch_size 96 --save edsr_baseline_x2 --
 #python main.py --template RCAN --save RCAN_BIX4_G10R20P48 --scale 4 --reset --save_results --patch_size 192 --pre_train ../experiment/model/RCAN_BIX2.pt
 # RCAN_BIX8_G10R20P48, input=48x48, output=384x384
 #python main.py --template RCAN --save RCAN_BIX8_G10R20P48 --scale 8 --reset --save_results --patch_size 384 --pre_train ../experiment/model/RCAN_BIX2.pt
-
